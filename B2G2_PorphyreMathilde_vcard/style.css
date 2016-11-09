@@ -1,0 +1,118 @@
+
+body {
+font-family: "",sans-serif;
+color: #000;
+font-size: 18px;
+line-height: 1.44;
+list-style: none;
+background-color: #bcd2f4;
+background-image:url(img/vcard.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+ h1 { 
+font-size: 60px;
+border: #000;
+opacity: .1;
+font-family: "trebuchet ms", sans-serif;
+font-style: normal;
+font-weight: 900;
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+
+.title {
+height: 80px;
+width: 450px;
+font-size: 50px;
+opacity: 1;
+color: #444444;
+font-family: "trebuchet ms", sans-serif;
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+
+.list__el {
+font-size: 22px;
+height: 500px;
+width: 500px;
+padding-top: 10px;
+opacity: .8;
+color: #444444;
+font-family: "trebuchet ms", sans-serif;
+list-style: none;
+}
+
+.img {
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.logo--tw {
+align-content: center;
+padding: 10px;
+width: 50px;
+height: 50px;
+list-style: none;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: -75px;
+ }
+
+.logo--tw:hover, .logo--gt:hover {
+transform: scale(1.2);
+	box-shadow: 0 0 65px #bcd2f4 inset,
+	0 0 20px #FFF inset, 0 0 5px #FFF;
+}
+
+.container {
+position: relative;
+width: 600px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+.button{
+border: 1px solid #2D2825;
+border-radius: 5px;
+border-color: transparent;
+background-color: #FFF; 
+padding: 10px 20px 10px 20px;
+font-family: 'trebuchet ms', sans-serif;
+font-size: 15px;
+color: #8eb7f9;
+text-transform: uppercase;
+display: block;
+margin-left: 750px;
+margin-right: auto
+
+}
+
+
+.button:hover{
+border: 1px solid #2D2825;
+border-radius: 5px;
+background-color: #8eb7f9;
+border-color: transparent;
+padding: 10px 20px 10px 20px;
+font-family: 'trebuchet ms', sans-serif;
+font-size: 15px;
+color: #FFF;
+text-transform: uppercase;
+transform: scale(1.2);
+box-shadow: 3px 3px 33px #8eb7f9;
+display: block;
+margin-left: 750px;
+margin-right: auto
+}
